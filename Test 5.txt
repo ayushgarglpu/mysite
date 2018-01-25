@@ -1,0 +1,1 @@
+Quiz is on monady on variables , exprssion , strings, list 
